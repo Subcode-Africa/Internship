@@ -9,7 +9,7 @@ The project contains series of assingment with different challenges in different
 Make sure your added as one of the contributors to this GitHub repository so that you will be able to push your assignment for review
 
 #### For Others
-We always welcome open source enthusiast who are keen to share their knowledge and want to improve the learning experience for this experiment, so please feel free to reach out to our Internship Team through (interns@irabu.co.tz).
+We always welcome open source enthusiast who are keen to share their knowledge and want to improve the learning experience for this experiment, so please feel free to reach out to our Internship Team through (interns@subcode.africa).
 
 ## Setup
 
